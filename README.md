@@ -1,7 +1,7 @@
 # AISnakeGame
 
-# Firstly
-This is not my original work, I created this by following a tutorial by Patrick Loeber. https://github.com/patrickloeber 
+# The project
+The project is following Patrick Loebers example.
 # Running
 To run this project simply run the agent.py file, this AI is not too taxing on your computer since it uses CPU only. 
 # Expectations
